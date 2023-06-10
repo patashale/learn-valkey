@@ -1,4 +1,7 @@
 site_name: Learn Redis
+site_url: https://www.patashale.in/learn-redis/
+site_author: Patashale™
+site_description: Learn everything about Redis here at Patashale™.
 repo_url: https://github.com/patashale/learn-redis
 repo_name: patashale/learn-redis
 theme:
