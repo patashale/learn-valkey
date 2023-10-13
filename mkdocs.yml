@@ -52,5 +52,75 @@ nav:
   - Home: index.md
   - Data Types:
     - Overview: en/data-types/overview.md
+    - String: 
+      - Overview: en/data-types/string.md
+    - List: 
+      - Overview: en/data-types/list.md
+    - Set: 
+      - Overview: en/data-types/set.md
+    - Sorted Set: 
+      - Overview: en/data-types/sorted-set.md
+    - Hash: 
+      - Overview: en/data-types/hash.md
+    - HyperLogLog: 
+      - Overview: en/data-types/hyperloglog.md
+    - Bitmap: 
+      - Overview: en/data-types/bitmap.md
+    - Bitfield: 
+      - Overview: en/data-types/bitfield.md
+    - Geospatial: 
+      - Overview: en/data-types/geospatial.md
+    - Stream: 
+      - Overview: en/data-types/stream.md
+    - Pub/Sub: 
+      - Overview: en/data-types/pub-sub.md
+    - JSON: 
+      - Overview:  en/data-types/json.md
+    - Time Series: 
+      - Overview: en/data-types/time-series.md
+    - Bloom Filter: 
+      - Overview: en/data-types/bloom-filter.md
+    - Cuckoo Filter: 
+      - Overview:  en/data-types/cuckoo-filter.md
+    - Count-min Sketch: 
+      - Overview: en/data-types/count-min-sketch.md
+    - Top-K: 
+      - Overview: en/data-types/top-k.md
+    - T-Digest: 
+      - Overview: en/data-types/t-digest.md
+  - Commands:
+    - Overview: en/commands/overview.md
+    - Generic:
+      - Overview: en/commands/generic.md
+    - Cluster Management:
+      - Overview: en/commands/cluster-management.md
+    - Server Management:
+      - Overview: en/commandsserver-management.md
+    - Connection Management:
+      - Overview: en/commands/connection-management.md
+    - Transactions:
+      - Overview: en/commands/transactions.md
+    - Lua Scripting:
+      - Overview: en/commands/scripting-and-functions.md
+    - Triggers & Functions:
+      - Overview: en/commands/triggers-and-functins.md
+    - Search & Query:
+      - Overview: en/commands/search-and-query.md
+  - Orchestration:
+    - Overview: en/orchestration/overview.md
+    - Security:
+      - Overview: en/orchestration/security.md
+    - Scaling:
+      - Overview: en/orchestration/scaling.md
+    - Replication:
+      - Overview: en/orchestration/replication.md
+    - Persistence:
+      - Overview: en/orchestration/persistence.md
+    - Performance:
+      - Overview: en/orchestration/performance.md
+    - Debugging:
+      - Overview: en/orchestration/debugging.md
+  - Patterns:
+    - Overview: en/patterns/overview.md
 
-copyright: Copyright &copy; 2023 Patashale™
+copyright: Copyright &copy; 2023 Patashale™.
