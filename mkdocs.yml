@@ -29,6 +29,18 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - abbr
+  - attr_list
+  - md_in_html
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 extra:
   generator: false
   social:
@@ -95,7 +107,7 @@ nav:
     - Cluster Management:
       - Overview: en/commands/cluster-management.md
     - Server Management:
-      - Overview: en/commandsserver-management.md
+      - Overview: en/commands/server-management.md
     - Connection Management:
       - Overview: en/commands/connection-management.md
     - Transactions:
@@ -103,7 +115,7 @@ nav:
     - Lua Scripting:
       - Overview: en/commands/scripting-and-functions.md
     - Triggers & Functions:
-      - Overview: en/commands/triggers-and-functins.md
+      - Overview: en/commands/triggers-and-functions.md
     - Search & Query:
       - Overview: en/commands/search-and-query.md
   - Orchestration:
