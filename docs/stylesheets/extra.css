@@ -4,8 +4,12 @@
     --md-typeset-a-color:#DC382C;
 }
 
-[data-md-color-scheme="slate"] {
+[data-md-color-scheme="slate"]   {
     --md-primary-fg-color:#741113;
     --md-accent-fg-color:#DC382C;
     --md-typeset-a-color:#DC382C;
+}
+
+div.md-content {
+    text-align: justify;
 }
