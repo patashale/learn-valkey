@@ -15,7 +15,7 @@ Redis currently supports the following data types:
 
     It stores a sequence of bytes up to 512MB.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/string.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/string.md)
 
 -   __List__
 
@@ -23,7 +23,7 @@ Redis currently supports the following data types:
 
     It stores list of strings by insertion order.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/list.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/list.md)
 
 -  __Set__
 
@@ -31,7 +31,7 @@ Redis currently supports the following data types:
 
     It stores unordered collections of unique strings.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/set.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/set.md)
 
 
 -   __Sorted Set__
@@ -40,7 +40,7 @@ Redis currently supports the following data types:
 
     It stores ordered collections of unique strings.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/sorted-set.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/sorted-set.md)
 
 -  __Hash__
 
@@ -48,7 +48,7 @@ Redis currently supports the following data types:
 
     It stores collections of field-value pairs.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/hash.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/hash.md)
 
 -   __HyperLogLog__
 
@@ -56,7 +56,7 @@ Redis currently supports the following data types:
 
     It stores the cardinality of a set.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/hyperloglog.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/hyperloglog.md)
 
 -  __Bitmap__
 
@@ -64,7 +64,7 @@ Redis currently supports the following data types:
 
     It performs set of bitwise operations on strings.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/bitmap.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/bitmap.md)
 
 
 -   __Bitfield__
@@ -73,7 +73,7 @@ Redis currently supports the following data types:
 
     It stores integer values of arbitrary bit length.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/bitfield.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/bitfield.md)
 
 -  __Geospatial__
 
@@ -81,7 +81,7 @@ Redis currently supports the following data types:
 
     It stores geographic coordinates and search for them.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/geospatial.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/geospatial.md)
 
 -   __Stream__
 
@@ -89,7 +89,7 @@ Redis currently supports the following data types:
 
     It stores the data in the append-only log fashion.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/stream.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/stream.md)
 
 -   __JSON__
 
@@ -97,7 +97,7 @@ Redis currently supports the following data types:
 
     It stores JSON values.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/json.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/json.md)
 
 -  __Time Series__
 
@@ -105,7 +105,7 @@ Redis currently supports the following data types:
 
     It stores time series data.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/time-series.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/time-series.md)
 
 
 -   __Bloom Filter__
@@ -114,7 +114,7 @@ Redis currently supports the following data types:
 
     It checks for presence of an element in a set.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/bloom-filter.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/bloom-filter.md)
 
 -  __Cuckoo Filter__
 
@@ -122,7 +122,7 @@ Redis currently supports the following data types:
 
     It checks for presence of an element in a set of buckets.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/cuckoo-filter.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/cuckoo-filter.md)
 
 
 -  __Top-K__
@@ -131,7 +131,7 @@ Redis currently supports the following data types:
 
     It allows you to find the most frequent items in a data stream.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/top-k.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/top-k.md)
 
 
 -   __T-Digest__
@@ -140,7 +140,7 @@ Redis currently supports the following data types:
 
     It allows you to estimate the percentile of a data stream.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/t-digest.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/t-digest.md)
 
 -   __Count-min Sketch__
 
@@ -148,7 +148,7 @@ Redis currently supports the following data types:
 
     It estimates the frequency of an element in a data stream.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/count-min-sketch.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/count-min-sketch.md)
 
 -   __Pub/Sub__
 
@@ -156,6 +156,6 @@ Redis currently supports the following data types:
 
     It stores the data in publish-subscribe messaging pattern.
 
-    [:octicons-arrow-right-24: Getting started](en/data-types/pub-sub.md)
+    [:octicons-arrow-right-24: Overview](en/data-types/pub-sub.md)
 
 </div>
