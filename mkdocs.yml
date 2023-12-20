@@ -60,6 +60,15 @@ extra:
       link: https://youtube.com/@learn-redis
       name: Learn Redis on YouTube
 
+plugins:
+  - search:
+      lang: en
+  - minify:
+      minify_html: true
+  - social:
+      cards_layout_options:
+        background_color: "#741113"
+
 nav:
   - Home: index.md
   - Data Types:
