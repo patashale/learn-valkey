@@ -1,11 +1,15 @@
+---
+hide:
+    - toc
+---
 ## Introduction
 
-Redis is an open-source data store platform that can be used as a database, cache, and event streaming engine. It specifically focuses on serving requests with low latency; hence, it is designed to work in memory rather than on disk.
+Valkey is an open-source data store platform that can be used as a database, cache, and event streaming engine. It specifically focuses on serving requests with low latency; hence, it is designed to work in memory rather than on disk.
 
 Although the disk is not used for its active operations, because of the volatile nature of the memory, it is used to persist the data in the event that it is not frequently used, but it requires long-term storage as it may be accessed later.
 
 
-Redis currently supports the following data types:
+Valkey currently supports the following data types:
 
 <div class="grid cards" markdown>
 

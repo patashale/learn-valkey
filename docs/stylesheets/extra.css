@@ -1,15 +1,23 @@
 [data-md-color-scheme="default"] {
-    --md-primary-fg-color:#741113;
-    --md-accent-fg-color:#DC382C;
-    --md-typeset-a-color:#DC382C;
+    --md-primary-fg-color:#123678;
+    --md-accent-fg-color:#000000;
+    --md-typeset-a-color:#000000;
 }
 
 [data-md-color-scheme="slate"]   {
-    --md-primary-fg-color:#741113;
-    --md-accent-fg-color:#DC382C;
-    --md-typeset-a-color:#DC382C;
+    --md-primary-fg-color:#123678;
+    --md-accent-fg-color:#FFFFFF;
+    --md-typeset-a-color:#FFFFFF;
 }
 
 div.md-content {
     text-align: justify;
+}
+
+div.md-header__topic {
+    display: none;
+}
+
+.md-nav--primary .md-nav__title {
+    font-size: 0; /* Set font size to 0 to hide text */
 }
