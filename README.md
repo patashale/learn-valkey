@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/patashale/learn-redis/assets/68323012/7f375548-6e19-4f63-b616-94f1182d52d3">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/patashale/learn-redis/assets/68323012/7f375548-6e19-4f63-b616-94f1182d52d3">
-  <img alt="Alternate banner" src="https://github.com/patashale/learn-redis/assets/68323012/7f375548-6e19-4f63-b616-94f1182d52d3">
-</picture>
-
 ### 👋 Introduction
 
 
