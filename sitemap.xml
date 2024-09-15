@@ -2,146 +2,146 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.patashale.in/learn-valkey/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/commands/cluster-management/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/commands/generic/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/commands/overview/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/commands/scripting-and-functions/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/commands/search-and-query/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/commands/server-management/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/commands/transactins/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/commands/triggers-and-functions/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/bitfield/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/bitmap/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/bloom-filter/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/count-min-sketch/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/cuckoo-filter/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/geospatial/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/hash/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/hyperloglog/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/json/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/list/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/overview/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/pub-sub/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/set/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/sorted-set/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/stream/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/string/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/t-digest/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/time-series/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/data-types/top-k/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/orchestration/debugging/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/orchestration/overview/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/orchestration/performance/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/orchestration/persistence/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/orchestration/replication/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/orchestration/scaling/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/orchestration/security/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
     <url>
          <loc>https://www.patashale.in/learn-valkey/en/patterns/overview/</loc>
-         <lastmod>2024-09-14</lastmod>
+         <lastmod>2024-09-15</lastmod>
     </url>
 </urlset>
