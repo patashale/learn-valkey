@@ -10,13 +10,11 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.png
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: default
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    - scheme: slate
       primary: red
       accent: red
       toggle:
