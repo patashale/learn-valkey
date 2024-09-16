@@ -3,7 +3,6 @@ hide:
     - toc
     - navigation
 ---
-## Introduction
 
 Valkey is an open-source data store platform that can be used as a database, cache, and event streaming engine. It specifically focuses on serving requests with low latency; hence, it is designed to work in memory rather than on disk.
 

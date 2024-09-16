@@ -65,7 +65,7 @@ plugins:
         background_color: "#123678"
 
 nav:
-  - Home: index.md
+  - Introduction: index.md
   - Data Types:
     - Overview: en/data-types/overview.md
     - String: 
