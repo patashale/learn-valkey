@@ -2,8 +2,6 @@ site_name: Learn Valkey
 site_url: https://www.patashale.in/learn-valkey/
 site_author: Patashale™
 site_description: Learn everything about Valkey here at Patashale™.
-repo_url: https://github.com/patashale/learn-valkey
-repo_name: patashale/learn-valkey
 theme:
   name: material
   language: en
